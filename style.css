@@ -1,0 +1,27 @@
+body{background-color:#333; font-family:'Microsoft Sans Serif',arial, sans-serif;color:white}
+h1{
+	color:white;
+}
+.button {
+	background-color:#f6b33d;
+	border-radius: 7px;
+	text-indent:0;
+	border:1px solid #eda933;
+	display:inline-block;
+	color:#333;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:auto;
+	width:auto;
+	padding:.5em 1em;
+	text-decoration:none;
+	text-align:center;
+	cursor:pointer;
+}.button:hover {
+	background-color:#d29105;
+}.button:active {
+	position:relative;
+	top:1px;
+}
