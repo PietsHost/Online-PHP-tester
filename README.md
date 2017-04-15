@@ -1,6 +1,6 @@
 # Online-PHP-tester
 
-PHP In The Browser is a php package that allows you to quickly test some php code and functions.  It's like a console, but for PHP. Really useful tool for php development. 
+Online-PHP-tester is a php package that allows you to quickly test some php code and functions.  It's like a console, but for PHP. Really useful tool for php development. 
 
 ![Screenshot](https://github.com/PietsHost/Online-PHP-tester/raw/master/screenshot.png)
 
