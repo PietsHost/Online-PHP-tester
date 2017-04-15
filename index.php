@@ -38,7 +38,7 @@ echo $message;<?php echo "\n?>";?></textarea>
 		</td>
 	</tr>
 </table>
-<script type="text/javascript" src="_js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="_js/jquery-3.2.1.min.js"></script>
 <script type="text/javaScript" src="_js/CodeMirror/lib/codemirror.js"></script>
 <script src="_js/CodeMirror/addon/edit/matchbrackets.js"></script>
 <script src="_js/CodeMirror/mode/htmlmixed/htmlmixed.js"></script>
