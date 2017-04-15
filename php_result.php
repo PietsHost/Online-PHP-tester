@@ -37,14 +37,14 @@ if ($_POST['submit'] != '') {
 	  </style>
     </head>
     <body>
-	  <fieldset style="border:1px solid black;height:300px;overflow:hidden;"><legend>Raw (+htmlentities()): </legend>
+	  <fieldset style="border:1px solid black;height:300px;overflow:hidden;"><legend>Raw (+HTML entities()): </legend>
 		<textarea style="overflow:auto;height:200px;width:600px;background:white;padding:10px">	
 <?php
 echo htmlentities($result);
 ?>
 		</textarea>
 	  </fieldset>
-	  <fieldset style="border:1px solid black;height:400px;overflow:hidden;"><legend>Html: </legend>
+	  <fieldset style="border:1px solid black;height:400px;overflow:hidden;"><legend>HTML: </legend>
 		<div style="overflow:auto;height:400px;background:white;padding:10px;margin:10px">
 		    <?php
 		    echo $result;
