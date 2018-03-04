@@ -1,7 +1,7 @@
 <?php
 $my_area = "Online PHP-tester";
 
-//SETUP for user-account(s)
+//SETUP for user-account(s) "username" => "password"
 $login_data = array("admin" => "1234abcd");
 
 
