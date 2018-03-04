@@ -1,4 +1,5 @@
 <?php
+include("auth_security.php");
 $folder = 'saves';
 if ($_POST['code']) {
     $filename = $folder.'/'. date('h-i-s_j-m-y').'.txt';
