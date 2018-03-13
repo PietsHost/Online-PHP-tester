@@ -1,4 +1,5 @@
 <?php
+include("auth_security.php");
 function implode_get() {
 	$first = true;
 	$output = '';
